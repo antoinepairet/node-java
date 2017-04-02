@@ -10,6 +10,9 @@ node-java.cbp
 *.kdev4
 */.kdev_include_paths
 .vscode
+[0-9].[0-9].[0-9]
+prebuilds
+iojs-*
 
 # npmignore - content above this line is automatically generated and modifications may be omitted
 # see npmjs.com/npmignore for more details.

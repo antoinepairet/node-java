@@ -10,3 +10,6 @@ node-java.cbp
 *.kdev4
 */.kdev_include_paths
 .vscode
+[0-9].[0-9].[0-9]
+prebuilds
+iojs-*
