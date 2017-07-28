@@ -5,7 +5,7 @@ var os = require('os');
 var _ = require('lodash');
 var Q = require('q');
 
-module.export = () => { 
+module.exports = () => { 
   var deferred = Q.defer();
   
   
