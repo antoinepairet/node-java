@@ -21,7 +21,6 @@ testHelpers
 testRunner.js
 test
 test8
-src
 examples
 docker
 testAsyncOptions
